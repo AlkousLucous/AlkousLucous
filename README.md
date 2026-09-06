@@ -1,6 +1,6 @@
 ### Hi, I'm Frank Ryan
 
-A Computer Science & Engineering student at SSET.
+A Computer Science & Engineering student.
 
 💡 I love coding and developing unique ideas and solutions.
 
